@@ -4,10 +4,9 @@ Big-Data course
 
 Orel Maymon, Yeynit Asraf, Adiya Blum 
 
-#We run our job in google colab because lack of memory in R.
-#And we minimaize the data because a lack of memory too in the colab.
+#We run our job in google colab because lack of memory in R and we minimaize the data because a lack of memory too in the colab.
 
-data.file <- 'profiles.csv'
+data.file <- 'profiles.csv',
 source('Week5_datingNLP.r')
 
 # ———— confusion matrix ————
