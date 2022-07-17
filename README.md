@@ -2,9 +2,7 @@
 NLP + clustering Assignment: classifiaction of words by men or women from their answers to dating site Okupid.
 Big-Data course
 
-Orel Maymon 
-Yeynit Asraf 
-Adiya Blum 
+Orel Maymon, Yeynit Asraf, Adiya Blum 
 
 #We run our job in google colab because lack of memory in R.
 #And we minimaize the data because a lack of memory too in the colab.
